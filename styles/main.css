@@ -1,0 +1,18 @@
+p{
+    color: crimson;
+    font-weight: 20px;
+    background-color: azure;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+h3{
+    color: darksalmon;
+    border-style: solid;
+    border-color: brown;
+    border-width: 3px;
+}
